@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1JvB9qFQzALeAm0eJ-Ki5Vaz9y52S4Sjs
 """
 
-pip install 'openmdao[all]'
-
 import openmdao.api as om
 import numpy as np
 
